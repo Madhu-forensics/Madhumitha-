@@ -1,7 +1,7 @@
 Hi, I’m Madhumitha.
 
 Cyber Forensics & Information Security student  
-Aspiring Cyber Analyst
+Aspiring Cyber Forensic Analyst
 
 Skills:
 - Digital Forensics
